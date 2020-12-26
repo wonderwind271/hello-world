@@ -5,5 +5,5 @@ int main()
     /*
     hello, github!
     */
-
+    return 0;
 }
